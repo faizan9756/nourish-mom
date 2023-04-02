@@ -1,0 +1,772 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - nourish-mom</title>
+	<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->
+	<link rel="canonical" href="http://localhost/nourish-mom/" class="yoast-seo-meta-tag" />
+	<meta property="og:locale" content="en_US" class="yoast-seo-meta-tag" />
+	<meta property="og:type" content="website" class="yoast-seo-meta-tag" />
+	<meta property="og:title" content="Home - nourish-mom" class="yoast-seo-meta-tag" />
+	<meta property="og:description" content="100% Authentic Fresh Made with Purified water Traditional Order Online Be the best Never Compromise We follow the casual dining concept and provide a warm and hospitable ambience in all the outlets. The group has major expansion plans to open retail outlets across India to sell sweets, snacks and ready-to-eat titbits and fast food products in different formats. Om Sweets will find presence across the country through express retail outlets, takeaways, casual dining retail outlets for family dining. The group plans to enter the export market of ready-to-eat packed snacks and namkeens. This will start with exports to the United…" class="yoast-seo-meta-tag" />
+	<meta property="og:url" content="http://localhost/nourish-mom/" class="yoast-seo-meta-tag" />
+	<meta property="og:site_name" content="nourish-mom" class="yoast-seo-meta-tag" />
+	<meta property="article:modified_time" content="2023-04-02T19:45:45+00:00" class="yoast-seo-meta-tag" />
+	<meta property="og:image" content="http://localhost/nourish-mom/wp-content/uploads/2023/04/Untitled.png" class="yoast-seo-meta-tag" />
+	<meta name="twitter:card" content="summary_large_image" class="yoast-seo-meta-tag" />
+	<meta name="twitter:label1" content="Est. reading time" class="yoast-seo-meta-tag" />
+	<meta name="twitter:data1" content="2 minutes" class="yoast-seo-meta-tag" />
+	<script type="application/ld+json" class="yoast-schema-graph">{
+	    "@context": "https://schema.org",
+	    "@graph": [
+	        {
+	            "@type": "WebPage",
+	            "@id": "http://localhost/nourish-mom/",
+	            "url": "http://localhost/nourish-mom/",
+	            "name": "Home - nourish-mom",
+	            "isPartOf": {
+	                "@id": "http://localhost/nourish-mom/#website"
+	            },
+	            "about": {
+	                "@id": "http://localhost/nourish-mom/#organization"
+	            },
+	            "primaryImageOfPage": {
+	                "@id": "http://localhost/nourish-mom/#primaryimage"
+	            },
+	            "image": {
+	                "@id": "http://localhost/nourish-mom/#primaryimage"
+	            },
+	            "thumbnailUrl": "http://localhost/nourish-mom/wp-content/uploads/2023/04/Untitled.png",
+	            "datePublished": "2023-03-31T06:40:41+00:00",
+	            "dateModified": "2023-04-02T19:45:45+00:00",
+	            "breadcrumb": {
+	                "@id": "http://localhost/nourish-mom/#breadcrumb"
+	            },
+	            "inLanguage": "en-US",
+	            "potentialAction": [
+	                {
+	                    "@type": "ReadAction",
+	                    "target": [
+	                        "http://localhost/nourish-mom/"
+	                    ]
+	                }
+	            ]
+	        },
+	        {
+	            "@type": "ImageObject",
+	            "inLanguage": "en-US",
+	            "@id": "http://localhost/nourish-mom/#primaryimage",
+	            "url": "http://localhost/nourish-mom/wp-content/uploads/2023/04/Untitled.png",
+	            "contentUrl": "http://localhost/nourish-mom/wp-content/uploads/2023/04/Untitled.png",
+	            "width": 100,
+	            "height": 100,
+	            "caption": "authentic"
+	        },
+	        {
+	            "@type": "BreadcrumbList",
+	            "@id": "http://localhost/nourish-mom/#breadcrumb",
+	            "itemListElement": [
+	                {
+	                    "@type": "ListItem",
+	                    "position": 1,
+	                    "name": "Home"
+	                }
+	            ]
+	        },
+	        {
+	            "@type": "WebSite",
+	            "@id": "http://localhost/nourish-mom/#website",
+	            "url": "http://localhost/nourish-mom/",
+	            "name": "nourish-mom",
+	            "description": "",
+	            "publisher": {
+	                "@id": "http://localhost/nourish-mom/#organization"
+	            },
+	            "potentialAction": [
+	                {
+	                    "@type": "SearchAction",
+	                    "target": {
+	                        "@type": "EntryPoint",
+	                        "urlTemplate": "http://localhost/nourish-mom/?s={search_term_string}"
+	                    },
+	                    "query-input": "required name=search_term_string"
+	                }
+	            ],
+	            "inLanguage": "en-US"
+	        },
+	        {
+	            "@type": "Organization",
+	            "@id": "http://localhost/nourish-mom/#organization",
+	            "name": "nourish-mom",
+	            "url": "http://localhost/nourish-mom/",
+	            "logo": {
+	                "@type": "ImageObject",
+	                "inLanguage": "en-US",
+	                "@id": "http://localhost/nourish-mom/#/schema/logo/image/",
+	                "url": "http://localhost/nourish-mom/wp-content/uploads/2023/04/trad.png",
+	                "contentUrl": "http://localhost/nourish-mom/wp-content/uploads/2023/04/trad.png",
+	                "width": 100,
+	                "height": 100,
+	                "caption": "nourish-mom"
+	            },
+	            "image": {
+	                "@id": "http://localhost/nourish-mom/#/schema/logo/image/"
+	            }
+	        }
+	    ]
+	}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="nourish-mom &raquo; Feed" href="http://localhost/nourish-mom/feed/" />
+<link rel="alternate" type="application/rss+xml" title="nourish-mom &raquo; Comments Feed" href="http://localhost/nourish-mom/comments/feed/" />
+<link rel='stylesheet' id='blocksy-dynamic-global-css' href='http://localhost/nourish-mom/wp-content/uploads/blocksy/css/global.css?ver=61624' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='http://localhost/nourish-mom/wp-includes/css/dashicons.min.css?ver=6.2' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='http://localhost/nourish-mom/wp-includes/css/admin-bar.min.css?ver=6.2' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='http://localhost/nourish-mom/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.1.3' media='all' />
+<link rel='stylesheet' id='shopengine-public-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/css/shopengine-public.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='shopengine-widget-frontend-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/widgets/init/assets/css/widget-frontend.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.12.0' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.12.0' media='(prefers-color-scheme: light)' />
+<link rel='stylesheet' id='e-theme-ui-dark-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/css/theme-dark.min.css?ver=3.12.0' media='(prefers-color-scheme: dark)' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://localhost/nourish-mom/wp-includes/css/dist/block-library/style.min.css?ver=6.2' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='http://localhost/nourish-mom/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.6.6' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='http://localhost/nourish-mom/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.6.6' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--palette-color-1: var(--paletteColor1, #2872fa);--wp--preset--color--palette-color-2: var(--paletteColor2, #1559ed);--wp--preset--color--palette-color-3: var(--paletteColor3, #3A4F66);--wp--preset--color--palette-color-4: var(--paletteColor4, #192a3d);--wp--preset--color--palette-color-5: var(--paletteColor5, #e1e8ed);--wp--preset--color--palette-color-6: var(--paletteColor6, #f2f5f7);--wp--preset--color--palette-color-7: var(--paletteColor7, #FAFBFC);--wp--preset--color--palette-color-8: var(--paletteColor8, #ffffff);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--juicy-peach: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);--wp--preset--gradient--young-passion: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);--wp--preset--gradient--true-sunset: linear-gradient(to right, #fa709a 0%, #fee140 100%);--wp--preset--gradient--morpheus-den: linear-gradient(to top, #30cfd0 0%, #330867 100%);--wp--preset--gradient--plum-plate: linear-gradient(135deg, #667eea 0%, #764ba2 100%);--wp--preset--gradient--aqua-splash: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);--wp--preset--gradient--love-kiss: linear-gradient(to top, #ff0844 0%, #ffb199 100%);--wp--preset--gradient--new-retrowave: linear-gradient(to top, #3b41c5 0%, #a981bb 49%, #ffc8a9 100%);--wp--preset--gradient--plum-bath: linear-gradient(to top, #cc208e 0%, #6713d2 100%);--wp--preset--gradient--high-flight: linear-gradient(to right, #0acffe 0%, #495aff 100%);--wp--preset--gradient--teen-party: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);--wp--preset--gradient--fabled-sunset: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);--wp--preset--gradient--arielle-smile: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);--wp--preset--gradient--itmeo-branding: linear-gradient(180deg, #2af598 0%, #009efd 100%);--wp--preset--gradient--deep-blue: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);--wp--preset--gradient--strong-bliss: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);--wp--preset--gradient--sweet-period: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);--wp--preset--gradient--purple-division: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);--wp--preset--gradient--cold-evening: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);--wp--preset--gradient--mountain-rock: linear-gradient(to right, #868f96 0%, #596164 100%);--wp--preset--gradient--desert-hump: linear-gradient(to top, #c79081 0%, #dfa579 100%);--wp--preset--gradient--ethernal-constance: linear-gradient(to top, #09203f 0%, #537895 100%);--wp--preset--gradient--happy-memories: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);--wp--preset--gradient--grown-early: linear-gradient(to top, #0ba360 0%, #3cba92 100%);--wp--preset--gradient--morning-salad: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);--wp--preset--gradient--night-call: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);--wp--preset--gradient--mind-crawl: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);--wp--preset--gradient--angel-care: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);--wp--preset--gradient--juicy-cake: linear-gradient(to top, #e14fad 0%, #f9d423 100%);--wp--preset--gradient--rich-metal: linear-gradient(to right, #d7d2cc 0%, #304352 100%);--wp--preset--gradient--mole-hall: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);--wp--preset--gradient--cloudy-knoxville: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);--wp--preset--gradient--soft-grass: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);--wp--preset--gradient--saint-petersburg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);--wp--preset--gradient--everlasting-sky: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);--wp--preset--gradient--kind-steel: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);--wp--preset--gradient--over-sun: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);--wp--preset--gradient--premium-white: linear-gradient(to top, #d5d4d0 0%, #d5d4d0 1%, #eeeeec 31%, #efeeec 75%, #e9e9e7 100%);--wp--preset--gradient--clean-mirror: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);--wp--preset--gradient--wild-apple: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);--wp--preset--gradient--snow-again: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);--wp--preset--gradient--confident-cloud: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);--wp--preset--gradient--glass-water: linear-gradient(to top, #dfe9f3 0%, white 100%);--wp--preset--gradient--perfect-white: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--block-max-width);--wp--style--global--wide-size: var(--block-wide-max-width); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-block-start: 0; margin-block-end: 0; }.wp-site-blocks > * + * { margin-block-start: var(--content-spacing); }body { --wp--style--block-gap: var(--content-spacing); }body .is-layout-flow > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-flow > * + *{margin-block-start: var(--content-spacing);margin-block-end: 0;}body .is-layout-constrained > *{margin-block-start: 0;margin-block-end: 0;}body .is-layout-constrained > * + *{margin-block-start: var(--content-spacing);margin-block-end: 0;}body .is-layout-flex{gap: var(--content-spacing);}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-color{color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-color{color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-color{color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-color{color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-color{color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-color{color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-color{color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-color{color: var(--wp--preset--color--palette-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-background-color{background-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-background-color{background-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-background-color{background-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-background-color{background-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-background-color{background-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-background-color{background-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-background-color{background-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-background-color{background-color: var(--wp--preset--color--palette-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-palette-color-1-border-color{border-color: var(--wp--preset--color--palette-color-1) !important;}.has-palette-color-2-border-color{border-color: var(--wp--preset--color--palette-color-2) !important;}.has-palette-color-3-border-color{border-color: var(--wp--preset--color--palette-color-3) !important;}.has-palette-color-4-border-color{border-color: var(--wp--preset--color--palette-color-4) !important;}.has-palette-color-5-border-color{border-color: var(--wp--preset--color--palette-color-5) !important;}.has-palette-color-6-border-color{border-color: var(--wp--preset--color--palette-color-6) !important;}.has-palette-color-7-border-color{border-color: var(--wp--preset--color--palette-color-7) !important;}.has-palette-color-8-border-color{border-color: var(--wp--preset--color--palette-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-juicy-peach-gradient-background{background: var(--wp--preset--gradient--juicy-peach) !important;}.has-young-passion-gradient-background{background: var(--wp--preset--gradient--young-passion) !important;}.has-true-sunset-gradient-background{background: var(--wp--preset--gradient--true-sunset) !important;}.has-morpheus-den-gradient-background{background: var(--wp--preset--gradient--morpheus-den) !important;}.has-plum-plate-gradient-background{background: var(--wp--preset--gradient--plum-plate) !important;}.has-aqua-splash-gradient-background{background: var(--wp--preset--gradient--aqua-splash) !important;}.has-love-kiss-gradient-background{background: var(--wp--preset--gradient--love-kiss) !important;}.has-new-retrowave-gradient-background{background: var(--wp--preset--gradient--new-retrowave) !important;}.has-plum-bath-gradient-background{background: var(--wp--preset--gradient--plum-bath) !important;}.has-high-flight-gradient-background{background: var(--wp--preset--gradient--high-flight) !important;}.has-teen-party-gradient-background{background: var(--wp--preset--gradient--teen-party) !important;}.has-fabled-sunset-gradient-background{background: var(--wp--preset--gradient--fabled-sunset) !important;}.has-arielle-smile-gradient-background{background: var(--wp--preset--gradient--arielle-smile) !important;}.has-itmeo-branding-gradient-background{background: var(--wp--preset--gradient--itmeo-branding) !important;}.has-deep-blue-gradient-background{background: var(--wp--preset--gradient--deep-blue) !important;}.has-strong-bliss-gradient-background{background: var(--wp--preset--gradient--strong-bliss) !important;}.has-sweet-period-gradient-background{background: var(--wp--preset--gradient--sweet-period) !important;}.has-purple-division-gradient-background{background: var(--wp--preset--gradient--purple-division) !important;}.has-cold-evening-gradient-background{background: var(--wp--preset--gradient--cold-evening) !important;}.has-mountain-rock-gradient-background{background: var(--wp--preset--gradient--mountain-rock) !important;}.has-desert-hump-gradient-background{background: var(--wp--preset--gradient--desert-hump) !important;}.has-ethernal-constance-gradient-background{background: var(--wp--preset--gradient--ethernal-constance) !important;}.has-happy-memories-gradient-background{background: var(--wp--preset--gradient--happy-memories) !important;}.has-grown-early-gradient-background{background: var(--wp--preset--gradient--grown-early) !important;}.has-morning-salad-gradient-background{background: var(--wp--preset--gradient--morning-salad) !important;}.has-night-call-gradient-background{background: var(--wp--preset--gradient--night-call) !important;}.has-mind-crawl-gradient-background{background: var(--wp--preset--gradient--mind-crawl) !important;}.has-angel-care-gradient-background{background: var(--wp--preset--gradient--angel-care) !important;}.has-juicy-cake-gradient-background{background: var(--wp--preset--gradient--juicy-cake) !important;}.has-rich-metal-gradient-background{background: var(--wp--preset--gradient--rich-metal) !important;}.has-mole-hall-gradient-background{background: var(--wp--preset--gradient--mole-hall) !important;}.has-cloudy-knoxville-gradient-background{background: var(--wp--preset--gradient--cloudy-knoxville) !important;}.has-soft-grass-gradient-background{background: var(--wp--preset--gradient--soft-grass) !important;}.has-saint-petersburg-gradient-background{background: var(--wp--preset--gradient--saint-petersburg) !important;}.has-everlasting-sky-gradient-background{background: var(--wp--preset--gradient--everlasting-sky) !important;}.has-kind-steel-gradient-background{background: var(--wp--preset--gradient--kind-steel) !important;}.has-over-sun-gradient-background{background: var(--wp--preset--gradient--over-sun) !important;}.has-premium-white-gradient-background{background: var(--wp--preset--gradient--premium-white) !important;}.has-clean-mirror-gradient-background{background: var(--wp--preset--gradient--clean-mirror) !important;}.has-wild-apple-gradient-background{background: var(--wp--preset--gradient--wild-apple) !important;}.has-snow-again-gradient-background{background: var(--wp--preset--gradient--snow-again) !important;}.has-confident-cloud-gradient-background{background: var(--wp--preset--gradient--confident-cloud) !important;}.has-glass-water-gradient-background{background: var(--wp--preset--gradient--glass-water) !important;}.has-perfect-white-gradient-background{background: var(--wp--preset--gradient--perfect-white) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpos-slick-style-css' href='http://localhost/nourish-mom/wp-content/plugins/woo-product-slider-and-carousel-with-category/assets/css/slick.css?ver=2.8' media='all' />
+<link rel='stylesheet' id='wcpscwc-public-style-css' href='http://localhost/nourish-mom/wp-content/plugins/woo-product-slider-and-carousel-with-category/assets/css/wcpscwc-public.css?ver=2.8' media='all' />
+<link rel='stylesheet' id='ct-woocommerce-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/woocommerce.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='shopengine-modal-styles-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/css/shopengine-modal.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css' href='http://localhost/nourish-mom/wp-admin/css/color-picker.min.css?ver=6.2' media='all' />
+<link rel='stylesheet' id='shopengine-swatches-loop-css-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/swatches/loop-product-support/assets/swatches.css?ver=1680465176' media='all' />
+<link rel='stylesheet' id='shopengine-wishlist-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/wishlist/assets/css/wishlist.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='shopengine-comparison-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/comparison/assets/css/comparison.css?ver=6.2' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css' href='http://localhost/nourish-mom/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.8.0.2' media='all' />
+<style id='wpforms-admin-bar-inline-css'>
+#wpadminbar .wpforms-menu-notification-counter, #wpadminbar .wpforms-menu-notification-indicator { 
+						background-color: #d63638 !important;
+						color: #ffffff !important; 
+					}
+</style>
+<link rel='stylesheet' id='shopengine-css-front-css' href='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/swatches/assets/css/frontend.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.4.0/css/all.css' media='all' integrity="sha384-iw3OoTErCYJJB9mCa8LNS2hbsQ7M3C0EpIsO/H5+EGAkPGc6rk+V8i04oW/K5xq0" crossorigin="anonymous" />
+<link rel='stylesheet' id='yoast-seo-adminbar-css' href='http://localhost/nourish-mom/wp-content/plugins/wordpress-seo/css/dist/adminbar-2040.css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.12.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-11-css' href='http://localhost/nourish-mom/wp-content/uploads/elementor/css/post-11.css?ver=1680172797' media='all' />
+<link rel='stylesheet' id='elementor-post-18-css' href='http://localhost/nourish-mom/wp-content/uploads/elementor/css/post-18.css?ver=1680464809' media='all' />
+<link rel='stylesheet' id='ct-main-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/main.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='ct-admin-frontend-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/admin-frontend.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='ct-elementor-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/elementor-frontend.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='ct-flexy-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/flexy.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='ct-wpforms-styles-css' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/wpforms.min.css?ver=1.8.80' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v6.4.0/css/v4-shims.css' media='all' integrity="sha384-TjXU13dTMPo+5ZlOUI1IGXvpmajjoetPqbUJqTx+uZ1bGwylKHNEItuVe/mg/H6l" crossorigin="anonymous" />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.2' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="stylesheet" type="text/css" href="//localhost/nourish-mom/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=e5da025b" media="all">
+<style data-related="n2-ss-6">div#n2-ss-6 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-6 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-6:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-6 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-6 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-6 .n2-ss-slide-backgrounds,div#n2-ss-6 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-6 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-6 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-6 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-6 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-6 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-6.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-6 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-6 .n2-ss-slide{perspective:1500px;}div#n2-ss-6 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-6 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-6 .nextend-arrow img{position:relative;display:block;}div#n2-ss-6 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-6 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-6 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-6 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-6 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-6 .nextend-arrow-animated > div{position:relative;}div#n2-ss-6 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-6 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-6 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-6 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-6 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-6 .n2-ss-slide-limiter{max-width:1200px;}div#n2-ss-6 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-6 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-6 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-6 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-6 .nextend-arrow img{width: 16px}}</style>
+<script src='http://localhost/nourish-mom/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/js/shopengine-modal.js?ver=4.1.0' id='shopengine-modal-script-js'></script>
+<script id='shopengine-quickview-js-extra'>
+var shopEngineQuickView = {"rest_nonce":"5b9c4d6208"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/quick-view/assets/js/script.js?ver=6.2' id='shopengine-quickview-js'></script>
+<script id='shopengine-wishlist-js-extra'>
+var shopEngineWishlist = {"product_id":"18","resturl":"http:\/\/localhost\/nourish-mom\/wp-json\/","isLoggedIn":"1","rest_nonce":"5b9c4d6208","wishlist_position":"bottom-right","wishlist_added_notice":"Your product is added to wishlist","wishlist_removed_notice":"Your product is removed from wishlist"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/wishlist/assets/js/wishlist.js?ver=6.2' id='shopengine-wishlist-js'></script>
+<link rel="https://api.w.org/" href="http://localhost/nourish-mom/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/nourish-mom/wp-json/wp/v2/pages/18" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/nourish-mom/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/nourish-mom/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2" />
+<meta name="generator" content="WooCommerce 7.5.1" />
+<link rel='shortlink' href='http://localhost/nourish-mom/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost/nourish-mom/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost/nourish-mom/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F&#038;format=xml" />
+<!-- Instagram Feed CSS -->
+<style type="text/css">
+#sbi_mod_link, #sbi_mod_error{ display: block !important; width: 100%; float: left; box-sizing: border-box; }
+</style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<noscript><link rel='stylesheet' href='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/no-scripts.min.css' type='text/css'></noscript>
+<meta name="generator" content="Elementor 3.12.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style media="print">#wpadminbar { display:none; }</style>
+	<style media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+		<script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);</script><script src="//localhost/nourish-mom/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=e5da025b" defer async></script>
+<script src="//localhost/nourish-mom/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=e5da025b" defer async></script>
+<script src="//localhost/nourish-mom/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=e5da025b" defer async></script>
+<script src="//localhost/nourish-mom/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=e5da025b" defer async></script>
+<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-6',{"admin":false,"background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":600,"sliderWidth":1200,"sliderHeight":600,"slideWidth":1200,"slideHeight":600},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":600,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":350,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":160,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":4000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})})});</script></head>
+
+
+<body class="home page-template-default page page-id-18 logged-in admin-bar no-customize-support wp-custom-logo wp-embed-responsive theme-blocksy woocommerce-no-js elementor-default elementor-kit-11 elementor-page elementor-page-18 ct-loading ct-elementor-default-template" data-link="type-2" data-prefix="single_page" data-header="type-1" data-footer="type-1" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+<a class="skip-link show-on-focus" href="#main">
+	Skip to content</a>
+
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/'>nourish-mom</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">6</span><span class="screen-reader-text updates-available-text">6 updates available</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=aa7af933df#library'>Landing Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php?post_type=product'>Product</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php?post_type=shop_order'>Order</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post-new.php?post_type=shop_coupon'>Coupon</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/user-new.php'>User</a></li><li id='wp-admin-bar-new_content_smart_slider'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3#createslider'>Slider [Smart Slider 3]</a></li><li id='wp-admin-bar-wpforms'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpforms-builder'>WPForms</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/post.php?post=18&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-smart_slider_3' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3'>Smart Slider</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-smart_slider_3-default' class="ab-submenu"><li id='wp-admin-bar-smart_slider_3_dashboard'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3'>Dashboard</a></li><li id='wp-admin-bar-smart_slider_3_create_slider'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3#createslider'>Create slider</a></li><li id='wp-admin-bar-smart_slider_3_edit' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Edit slider</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-smart_slider_3_edit-default' class="ab-submenu"><li id='wp-admin-bar-smart_slider_3_slider_6'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=6&#038;groupID=0'>#6 - My project</a></li><li id='wp-admin-bar-smart_slider_3_slider_5'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=5&#038;groupID=0'>#5 - My project</a></li><li id='wp-admin-bar-smart_slider_3_slider_4'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=4&#038;groupID=0'>#4 - My project</a></li><li id='wp-admin-bar-smart_slider_3_slider_3'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=3&#038;groupID=0'>#3 - desktop</a></li><li id='wp-admin-bar-smart_slider_3_slider_1'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=1&#038;groupID=0'>#1 - Tutorial Slider</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-wpseo-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpseo_dashboard'><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div aria-hidden="true" title="Focus keyphrase not set" class="wpseo-score-icon bad adminbar-seo-score"><span class="wpseo-score-text screen-reader-text">Focus keyphrase not set</span></div></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-seo-focus-keyword'><div class="ab-item ab-empty-item" tabindex="0">Focus keyphrase: <span class="wpseo-focus-keyword">not set</span></div></li><li id='wp-admin-bar-wpseo-seo-score'><div class="ab-item ab-empty-item" tabindex="0">SEO score: <div aria-hidden="true" title="Focus keyphrase not set" class="wpseo-score-icon bad adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Focus keyphrase not set</span></div></div></li><li id='wp-admin-bar-wpseo-readability-score'><div class="ab-item ab-empty-item" tabindex="0">Readability: <div aria-hidden="true" title="Good" class="wpseo-score-icon good adminbar-sub-menu-score"><span class="wpseo-score-text screen-reader-text">Good</span></div></div></li><li id='wp-admin-bar-wpseo-frontend-inspector'><a class='ab-item' tabindex="0" href='https://yoa.st/admin-bar-frontend-inspector?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Front-end SEO inspector<span class="yoast-badge yoast-premium-badge" id="wpseo-frontend-inspector-badge-premium-badge">Premium</span></a></li><li id='wp-admin-bar-wpseo-analysis' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-analysis-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-inlinks'><a class='ab-item' href='https://search.google.com/search-console/links/drilldown?resource_id=http%3A%2F%2Flocalhost%2Fnourish-mom&#038;type=EXTERNAL&#038;target=http%3A%2F%2Flocalhost%2Fnourish-mom%2F&#038;domain=' target='_blank'>Check links to this URL</a></li><li id='wp-admin-bar-wpseo-structureddata'><a class='ab-item' href='https://search.google.com/test/rich-results?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F' target='_blank'>Google Rich Results Test</a></li><li id='wp-admin-bar-wpseo-facebookdebug'><a class='ab-item' href='//developers.facebook.com/tools/debug/?q=http%3A%2F%2Flocalhost%2Fnourish-mom%2F' target='_blank'>Facebook Debugger</a></li><li id='wp-admin-bar-wpseo-pagespeed'><a class='ab-item' href='//developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F' target='_blank'>Google Page Speed Test</a></li><li id='wp-admin-bar-wpseo-google-mobile-friendly'><a class='ab-item' href='https://www.google.com/webmasters/tools/mobile-friendly/?url=http%3A%2F%2Flocalhost%2Fnourish-mom%2F' target='_blank'>Mobile-Friendly Test</a></li></ul></div></li><li id='wp-admin-bar-wpseo-sub-tools' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Tools</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-sub-tools-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-semrush'><a class='ab-item' href='https://yoa.st/admin-bar-semrush?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Semrush</a></li><li id='wp-admin-bar-wpseo-wincher'><a class='ab-item' href='https://yoa.st/admin-bar-wincher?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Wincher</a></li><li id='wp-admin-bar-wpseo-google-trends'><a class='ab-item' href='https://yoa.st/admin-bar-gtrends?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Google trends</a></li></ul></div></li><li id='wp-admin-bar-wpseo-sub-howto' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>How to</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-sub-howto-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-learn-seo'><a class='ab-item' href='https://yoa.st/admin-bar-learn-more-seo?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Learn more SEO</a></li><li id='wp-admin-bar-wpseo-improve-blogpost'><a class='ab-item' href='https://yoa.st/admin-bar-improve-blog-post?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Improve your blog post</a></li><li id='wp-admin-bar-wpseo-write-better-content'><a class='ab-item' href='https://yoa.st/admin-bar-write-better?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Write better content</a></li></ul></div></li><li id='wp-admin-bar-wpseo-sub-get-help' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Help</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-sub-get-help-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-yoast-help'><a class='ab-item' href='https://yoa.st/admin-bar-yoast-help?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Yoast.com help section</a></li><li id='wp-admin-bar-wpseo-premium-support'><a class='ab-item' href='https://yoa.st/admin-bar-premium-support?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Yoast Premium support</a></li><li id='wp-admin-bar-wpseo-wp-support-forums'><a class='ab-item' href='https://yoa.st/admin-bar-wp-support-forums?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>WordPress.org support forums</a></li><li id='wp-admin-bar-wpseo-learn-seo-2'><a class='ab-item' href='https://yoa.st/admin-bar-learn-more-seo-help?php_version=8.0&#038;platform=wordpress&#038;platform_version=6.2&#038;software=free&#038;software_version=20.4&#038;days_active=2-5&#038;user_language=en_US' target='_blank'>Learn more SEO</a></li></ul></div></li><li id='wp-admin-bar-wpseo-settings' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Settings</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-settings-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-general'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpseo_dashboard'>General</a></li><li id='wp-admin-bar-wpseo-page-settings'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpseo_page_settings'>Settings</a></li><li id='wp-admin-bar-wpseo-tools'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpseo_tools'>Tools</a></li><li id='wp-admin-bar-wpseo-licenses'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpseo_licenses'>Premium</a></li></ul></div></li><li id='wp-admin-bar-wpseo-get-premium'><div class="ab-item ab-empty-item" tabindex="0"><a href="https://yoa.st/admin-bar-get-premium?php_version=8.0&platform=wordpress&platform_version=6.2&software=free&software_version=20.4&days_active=2-5&user_language=en_US" target="_blank" data-action="load-nfd-ctb" data-ctb-id="f6a84663-465f-4cb5-8ba5-f7a6d72224b2" style="padding:0;">Get Yoast SEO Premium &raquo;</a></div></li></ul></div></li><li id='wp-admin-bar-wpforms-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpforms-overview'>WPForms <div class="wp-core-ui wp-ui-notification wpforms-menu-notification-counter">2</div></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpforms-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpforms-notifications'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpforms-overview'>Notifications <div class="wp-core-ui wp-ui-notification wpforms-menu-notification-indicator"></div></a></li><li id='wp-admin-bar-wpforms-forms'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpforms-overview'>All Forms</a></li><li id='wp-admin-bar-wpforms-add-new'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/admin.php?page=wpforms-builder'>Add New</a></li><li id='wp-admin-bar-wpforms-community'><a class='ab-item' href='https://www.facebook.com/groups/wpformsvip/' target='_blank' rel='noopener noreferrer'>Community</a></li><li id='wp-admin-bar-wpforms-help-docs'><a class='ab-item' href='https://wpforms.com/docs/?utm_campaign=liteplugin&#038;utm_medium=admin-bar&#038;utm_source=WordPress&#038;utm_content=Documentation' target='_blank' rel='noopener noreferrer'>Help Docs</a></li><li id='wp-admin-bar-wpforms-upgrade'><a class='ab-item' href='https://wpforms.com/lite-upgrade/?utm_campaign=liteplugin&#038;utm_medium=admin-bar&#038;utm_source=WordPress&#038;utm_content=Upgrade+to+Pro' target='_blank' rel='noopener noreferrer'>Upgrade to Pro</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/nourish-mom/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/nourish-mom/wp-admin/profile.php'>Howdy, <span class="display-name">nourish-mom</span><img alt='' src='http://1.gravatar.com/avatar/d2c846f0e3b80b92dbf8d71c5add1772?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d2c846f0e3b80b92dbf8d71c5add1772?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/nourish-mom/wp-admin/profile.php'><img alt='' src='http://1.gravatar.com/avatar/d2c846f0e3b80b92dbf8d71c5add1772?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d2c846f0e3b80b92dbf8d71c5add1772?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><span class='display-name'>nourish-mom</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/nourish-mom/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/nourish-mom/wp-login.php?action=logout&#038;_wpnonce=1a7d55eba0'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost/nourish-mom/wp-login.php?action=logout&#038;_wpnonce=1a7d55eba0">Log Out</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div class="ct-drawer-canvas">
+		<div id="search-modal" class="ct-panel" data-behaviour="modal">
+			<div class="ct-panel-actions">
+				<button class="ct-toggle-close" data-type="type-1" aria-label="Close search modal">
+					<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/></svg>				</button>
+			</div>
+
+			<div class="ct-panel-content">
+				
+
+<form role="search" method="get" class="search-form" action="http://localhost/nourish-mom/" aria-haspopup="listbox" data-live-results="thumbs">
+
+	<input type="search" class="modal-field" placeholder="Search" value="" name="s" autocomplete="off" title="Search for..." aria-label="Search for...">
+
+	<button type="submit" class="search-submit" aria-label="Search button">
+		<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/></svg>
+		<span data-loader="circles"><span></span><span></span><span></span></span>
+	</button>
+
+	
+			<input type="hidden" name="ct_post_type" value="post:page:product:shopengine-template">
+	
+	
+			<div class="screen-reader-text" aria-live="polite" role="status">
+			No results		</div>
+	
+</form>
+
+
+			</div>
+		</div>
+
+		<div id="offcanvas" class="ct-panel ct-header" data-behaviour="right-side" ><div class="ct-panel-inner">
+		<div class="ct-panel-actions">
+			<button class="ct-toggle-close" data-type="type-1" aria-label="Close drawer">
+				<svg class="ct-icon" width="12" height="12" viewBox="0 0 15 15"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"/></svg>
+			</button>
+		</div>
+		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
+<nav
+	class="mobile-menu has-submenu"
+	data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1" 	aria-label="Off Canvas Menu">
+	<ul><li class="page_item page-item-21"><a href="http://localhost/nourish-mom/about-us/" class="ct-menu-link">About us</a></li><li class="page_item page-item-25"><a href="http://localhost/nourish-mom/blog/" class="ct-menu-link">Blog</a></li><li class="page_item page-item-7"><a href="http://localhost/nourish-mom/cart/" class="ct-menu-link">Cart</a></li><li class="page_item page-item-8"><a href="http://localhost/nourish-mom/checkout/" class="ct-menu-link">Checkout</a></li><li class="page_item page-item-23"><a href="http://localhost/nourish-mom/contact-us/" class="ct-menu-link">Contact us</a></li><li class="page_item page-item-18 current_page_item current-menu-item"><span class="ct-sub-menu-parent"><a href="http://localhost/nourish-mom/" aria-current="page" class="ct-menu-link">Home</a></li><li class="page_item page-item-9"><a href="http://localhost/nourish-mom/my-account/" class="ct-menu-link">My account</a></li><li class="page_item page-item-27"><a href="http://localhost/nourish-mom/order-tracking/" class="ct-menu-link">Order Tracking</a></li><li class="page_item page-item-10"><a href="http://localhost/nourish-mom/refund_returns/" class="ct-menu-link">Refund and Returns Policy</a></li><li class="page_item page-item-6"><a href="http://localhost/nourish-mom/shop/" class="ct-menu-link">Shop</a></li></ul></nav>
+
+</div></div></div></div>
+<div id="main-container">
+	<header id="header" class="ct-header" data-id="type-1" itemscope="" itemtype="https://schema.org/WPHeader" ><div data-device="desktop" ><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 	data-logo="top"	itemscope="itemscope" itemtype="https://schema.org/Organization" >
+
+			<a href="http://localhost/nourish-mom/" class="site-logo-container" rel="home"><img width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/trad.png" class="default-logo" alt="Traditional" /></a>	
+			<div class="site-title-container">
+							<span class="site-title " itemprop="name" >
+					<a href="http://localhost/nourish-mom/" rel="home" itemprop="url" >
+						nourish-mom					</a>
+				</span>
+			
+					</div>
+	  </div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<nav
+	id="header-menu-1"
+	class="header-menu-1"
+	data-id="menu" data-interaction="hover" 	data-menu="type-1"
+	data-dropdown="type-1:simple"		data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" 	aria-label="Header Menu">
+
+	<ul id="menu-menu1" class="menu" role="menubar"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-50" role="none"><a href="http://localhost/nourish-mom/" aria-current="page" class="ct-menu-link" role="menuitem">Home</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51" role="none"><a href="http://localhost/nourish-mom/about-us/" class="ct-menu-link" role="menuitem">About us</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52" role="none"><a href="http://localhost/nourish-mom/refund_returns/" class="ct-menu-link" role="menuitem">Refund and Returns Policy</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53" role="none"><a href="http://localhost/nourish-mom/contact-us/" class="ct-menu-link" role="menuitem">Contact us</a></li>
+</ul></nav>
+
+
+<button
+	data-toggle-panel="#search-modal"
+	class="ct-header-search ct-toggle "
+	aria-label="Open search form"
+	data-label="left"
+	data-id="search" >
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Search</span>
+
+	<svg class="ct-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"/></svg></button>
+</div></div></div></div></div><div data-device="mobile" ><div data-row="middle" data-column-set="2" ><div class="ct-container" ><div data-column="start" data-placements="1" ><div data-items="primary" >
+<div	class="site-branding"
+	data-id="logo" 	data-logo="top"	>
+
+			<a href="http://localhost/nourish-mom/" class="site-logo-container" rel="home"><img width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/trad.png" class="default-logo" alt="Traditional" /></a>	
+			<div class="site-title-container">
+							<span class="site-title " >
+					<a href="http://localhost/nourish-mom/" rel="home" >
+						nourish-mom					</a>
+				</span>
+			
+					</div>
+	  </div>
+
+</div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
+<button
+	data-toggle-panel="#offcanvas"
+	class="ct-header-trigger ct-toggle "
+	data-design="simple"
+	data-label="right"
+	aria-label="Open off canvas"
+	data-id="trigger" >
+
+	<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Menu</span>
+
+	<svg
+		class="ct-icon"
+		width="18" height="14" viewBox="0 0 18 14"
+		aria-hidden="true"
+		data-type="type-1">
+
+		<rect y="0.00" width="18" height="1.7" rx="1"/>
+		<rect y="6.15" width="18" height="1.7" rx="1"/>
+		<rect y="12.3" width="18" height="1.7" rx="1"/>
+	</svg>
+</button>
+</div></div></div></div></div></header>
+	<main id="main" class="site-main hfeed" >
+
+		
+	<div
+		class="ct-container-full"
+				data-content="normal"		>
+
+		
+		
+	<article
+		id="post-18"
+		class="post-18 page type-page status-publish hentry">
+
+		<div class="blocksy-woo-messages-default woocommerce-notices-wrapper"><div class="woocommerce"></div></div>
+		
+		
+		<div class="entry-content">
+					<div data-elementor-type="wp-page" data-elementor-id="18" class="elementor elementor-18">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-cf85e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cf85e24" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7a7694e" data-id="7a7694e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-920a72a elementor-widget elementor-widget-smartslider" data-id="920a72a" data-element_type="widget" data-widget_type="smartslider.default">
+				<div class="elementor-widget-container">
+			<div class="n2_clear"><ss3-force-full-width data-overflow-x="body" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="6"><div id="n2-ss-6-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-6" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//localhost/nourish-mom/wp-content/uploads/2023/04/c49318331a.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//localhost/nourish-mom/wp-content/uploads/2023/04/c1db3802a8.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//localhost/nourish-mom/wp-content/uploads/2023/04/da17325ea1.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="16" data-slide-public-id="1" data-title="c49318331a" class="n2-ss-slide n2-ow  n2-ss-slide-16"><div role="note" class="n2-ss-slide--focus" tabindex="-1">c49318331a</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-6IMoXbg6wHCP" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="17" data-slide-public-id="2" data-title="c1db3802a8" class="n2-ss-slide n2-ow  n2-ss-slide-17"><div role="note" class="n2-ss-slide--focus" tabindex="-1">c1db3802a8</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-z5tEQadYwfcf" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="18" data-slide-public-id="3" data-title="da17325ea1" class="n2-ss-slide n2-ow  n2-ss-slide-18"><div role="note" class="n2-ss-slide--focus" tabindex="-1">da17325ea1</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-2IuekCKBwbZm" data-sstype="slide" data-pm="default"></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-6-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-6-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img decoding="async" loading="lazy" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></ss3-force-full-width></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-82fcf4d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82fcf4d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-96d2aa1" data-id="96d2aa1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-750f4f1 elementor-widget elementor-widget-image" data-id="750f4f1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.0 - 29-03-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/Untitled.png" class="attachment-large size-large wp-image-79" alt="authentic" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-13d7f6b elementor-widget elementor-widget-heading" data-id="13d7f6b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.0 - 29-03-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-small">100% Authentic</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0ad2f57" data-id="0ad2f57" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d4f422a elementor-widget elementor-widget-image" data-id="d4f422a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/soda.png" class="attachment-large size-large wp-image-80" alt="fresh" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f6fa5c6 elementor-widget elementor-widget-heading" data-id="f6fa5c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Fresh</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-58626e0" data-id="58626e0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a92540 elementor-widget elementor-widget-image" data-id="5a92540" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/drop.png" class="attachment-large size-large wp-image-85" alt="made with pure water" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-a71de23 elementor-widget elementor-widget-heading" data-id="a71de23" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Made with Purified water</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3d9af44" data-id="3d9af44" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3081390 elementor-widget elementor-widget-image" data-id="3081390" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="100" height="100" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/trad.png" class="attachment-large size-large wp-image-86" alt="Traditional" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-00ff409 elementor-widget elementor-widget-heading" data-id="00ff409" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Traditional</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f07c50b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f07c50b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-365c51e" data-id="365c51e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a9d5b05 elementor-widget elementor-widget-text-editor" data-id="a9d5b05" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.0 - 29-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>										</div>
+				</div>
+				<div class="elementor-element elementor-element-c71dd8b e-transform elementor-align-center elementor-widget elementor-widget-button" data-id="c71dd8b" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost/nourish-mom/product/after-birth-sweet/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Order Online</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8d46964 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d46964" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a32b13a" data-id="a32b13a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-211b7ed elementor-widget elementor-widget-heading" data-id="211b7ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Be the best Never Compromise</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c4f298f elementor-widget elementor-widget-text-editor" data-id="c4f298f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We follow the casual dining concept and provide a warm and hospitable ambience in all the outlets. The group has major expansion plans to open retail outlets across India to sell sweets, snacks and ready-to-eat titbits and fast food products in different formats. Om Sweets will find presence across the country through express retail outlets, takeaways, casual dining retail outlets for family dining. The group plans to enter the export market of ready-to-eat packed snacks and namkeens. This will start with exports to the United States, Europe and Middle East markets.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f293429" data-id="f293429" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bec313c elementor-widget elementor-widget-image" data-id="bec313c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://localhost/nourish-mom/product/after-birth-sweet/">
+							<img decoding="async" width="1000" height="677" src="http://localhost/nourish-mom/wp-content/uploads/2023/04/c1db3802a8.jpg" class="attachment-full size-full wp-image-58" alt="kaju barfi" loading="lazy" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8d907e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d907e8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79fe190" data-id="79fe190" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7e07593 e-transform elementor-widget elementor-widget-heading" data-id="7e07593" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Featured Products</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-18a2145 elementor-widget elementor-widget-shortcode" data-id="18a2145" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><div class="woocommerce columns-2 "><ul data-products="type-1" class="products columns-2">
+<li class="product type-product post-36 status-publish first instock product_cat-uncategorized has-post-thumbnail featured shipping-taxable purchasable product-type-variable">
+	<a href="http://localhost/nourish-mom/product/after-birth-sweet/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="ct-image-container"><img width="300" height="400" src="http://localhost/nourish-mom/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-22-at-21.50.19.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" style="aspect-ratio: 3/4;" /></span><h2 class="woocommerce-loop-product__title">after birth sweet</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>400.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>800.00</bdi></span></span>
+</a><div class="ct-woo-card-actions"><a data-pid="36" class="shopengine_add_to_list_action shopengine-wishlist badge se-btn active" href="#" ><i class="shopengine-icon-add_to_favourite_1"></i></a><a title='Quick View' class='shopengine-quickview-trigger se-btn'
+					data-source-url='http://localhost/nourish-mom/product/after-birth-sweet/'
+					href='http://localhost/nourish-mom/product/after-birth-sweet/'>
+					<i class="shopengine-icon-quick_view_1"></i>
+				</a><a href="http://localhost/nourish-mom/product/after-birth-sweet/" data-quantity="1" class="button wp-element-button product_type_variable add_to_cart_button" data-product_id="36" data-product_sku="" aria-label="Select options for &ldquo;after birth sweet&rdquo;" rel="nofollow">Select options</a><a data-payload='{"pid":36}' class="shopengine_comparison_add_to_list_action shopengine-comparison badge se-btn inactive"> <i class="shopengine-icon-product_compare_1"></i> </a></div></li>
+<li class="product type-product post-34 status-publish last instock product_cat-uncategorized has-post-thumbnail featured shipping-taxable purchasable product-type-simple">
+	<a href="http://localhost/nourish-mom/product/nourish-sweet/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><span class="ct-image-container"><img width="300" height="200" src="http://localhost/nourish-mom/wp-content/uploads/2023/03/milad-fakurian-SwEugqgu3xI-unsplash.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" style="aspect-ratio: 3/4;" /></span><h2 class="woocommerce-loop-product__title">nourish sweet</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>500.00</bdi></span></span>
+</a><div class="ct-woo-card-actions"><a data-pid="34" class="shopengine_add_to_list_action shopengine-wishlist badge se-btn inactive" href="#" ><i class="shopengine-icon-add_to_favourite_1"></i></a><a title='Quick View' class='shopengine-quickview-trigger se-btn'
+					data-source-url='http://localhost/nourish-mom/product/nourish-sweet/'
+					href='http://localhost/nourish-mom/product/nourish-sweet/'>
+					<i class="shopengine-icon-quick_view_1"></i>
+				</a><a href="?add-to-cart=34" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="34" data-product_sku="" aria-label="Add &ldquo;nourish sweet&rdquo; to your cart" rel="nofollow">Add to cart</a><a data-payload='{"pid":34}' class="shopengine_comparison_add_to_list_action shopengine-comparison badge se-btn inactive"> <i class="shopengine-icon-product_compare_1"></i> </a></div></li>
+</ul>
+</div></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				</div>
+
+		
+		
+		
+		
+	</article>
+
+	
+		
+			</div>
+
+	</main>
+
+	<footer id="footer" class="ct-footer" data-id="type-1" itemscope="" itemtype="https://schema.org/WPFooter" ><div data-row="bottom" ><div class="ct-container" data-columns-divider="md:sm" ><div data-column="copyright" >
+<div
+	class="ct-footer-copyright"
+	data-id="copyright" >
+
+	Copyright &copy; 2023 - WordPress Theme by <a href="https://creativethemes.com" >CreativeThemes</a></div>
+</div></div></div></footer></div>
+
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://localhost/nourish-mom/wp-admin/admin-ajax.php";
+</script>
+		<div class="shopengine-quick-view-modal se-modal-wrapper"></div>
+				<div class="shopengine-comparison-modal se-modal-wrapper">
+			<div class="se-modal-inner"></div>
+		</div>
+		<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Close"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.7.5.1' id='flexslider-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.5.1' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/nourish-mom\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/nourish-mom\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost\/nourish-mom\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.5.1' id='wc-add-to-cart-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.5.1' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/nourish-mom\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/nourish-mom\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.5.1' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/nourish-mom\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/nourish-mom\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_5276e31e550235f10dc0ef15c9f9fa01","fragment_name":"wc_fragments_5276e31e550235f10dc0ef15c9f9fa01","request_timeout":"5000"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.5.1' id='wc-cart-fragments-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/js/simple-scrollbar.js?ver=4.1.0' id='shopengine-simple-scrollbar.js-js-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/js/filter.js?ver=4.1.0' id='shopengine-filter-js-js'></script>
+<script id='shopengine-js-js-extra'>
+var shopEngineApiSettings = {"resturl":"http:\/\/localhost\/nourish-mom\/wp-json\/","rest_nonce":"5b9c4d6208"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/assets/js/public.js?ver=4.1.0' id='shopengine-js-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/swatches/loop-product-support/assets/swatches.js?ver=1515155' id='shopengine-swatches-loop-js-js'></script>
+<script id='shopengine-comparison-js-extra'>
+var shopEngineComparison = {"product_id":"18","resturl":"http:\/\/localhost\/nourish-mom\/wp-json\/","rest_nonce":"5b9c4d6208"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/comparison/assets/js/comparison.js?ver=4.1.0' id='shopengine-comparison-js'></script>
+<script id='shopengine-js-front-js-extra'>
+var frontendApiSettings = {"nonce":"07fe6a9495","ajaxurl":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/modules/swatches/assets/js/frontend.js?ver=4.1.0' id='shopengine-js-front-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.12.0' id='elementor-common-modules-js'></script>
+<script id='elementor-web-cli-js-before'>
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/nourish-mom\/wp-json\/","assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"5b9c4d6208","version":"3.12.0"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"http:\/\/localhost\/nourish-mom\/wp-json\/","assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"5b9c4d6208","version":"3.12.0"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.12.0' id='elementor-web-cli-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script id='wp-api-request-js-extra'>
+var wpApiSettings = {"root":"http:\/\/localhost\/nourish-mom\/wp-json\/","nonce":"5b9c4d6208","versionString":"wp\/v2\/"};
+</script>
+<script src='http://localhost/nourish-mom/wp-includes/js/api-request.min.js?ver=6.2' id='wp-api-request-js'></script>
+<script id='elementor-dev-tools-js-before'>
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.12.0"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.12.0"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.12.0"}};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.12.0' id='elementor-dev-tools-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.12.0","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/","rest":"http:\/\/localhost\/nourish-mom\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":false,"subscription_plans":[{"label":null,"promotion_url":null,"color":null},{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}],"base_access_level":0,"current_access_level":0},"ajax":{"url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin-ajax.php","nonce":"8acca08040"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-app&ver=3.12.0#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Library","icon":"kit-parts","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-app&ver=3.12.0#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"page":{"title":"Add New Page Template","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=aa7af933df","keywords":["Add New Page Template","post","page","template","new","create"]},"section":{"title":"Add New Section","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=aa7af933df","keywords":["Add New Section","post","page","template","new","create"]},"wp-post":{"title":"Add New Post","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=aa7af933df","keywords":["Add New Post","post","page","template","new","create"]},"wp-page":{"title":"Add New Page","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=aa7af933df","keywords":["Add New Page","post","page","template","new","create"]},"landing-page":{"title":"Add New Landing Page","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=aa7af933df#library","keywords":["Add New Landing Page","post","page","template","new","create"]},"shopengine-template":{"title":"Add New Builder Template","icon":"plus-circle-o","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/edit.php?action=elementor_new_post&post_type=shopengine-template&_wpnonce=aa7af933df","keywords":["Add New Builder Template","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"http:\/\/localhost\/nourish-mom","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Advanced","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experiments","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Version Control","icon":"time-line","url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.12.0' id='elementor-common-js'></script>
+<script id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-app&ver=3.12.0#site-editor\/promotion","assets_url":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/","return_url":"http:\/\/localhost\/nourish-mom\/wp-admin\/","hasPro":false,"admin_url":"http:\/\/localhost\/nourish-mom\/wp-admin\/","login_url":"http:\/\/localhost\/nourish-mom\/wp-login.php","base_url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-app&ver=3.12.0","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.12.0' id='elementor-app-loader-js'></script>
+<script id='ct-scripts-js-extra'>
+var ct_localizations = {"ajax_url":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin-ajax.php","nonce":"199763fce5","public_url":"http:\/\/localhost\/nourish-mom\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"http:\/\/localhost\/nourish-mom\/wp-json\/","search_url":"http:\/\/localhost\/nourish-mom\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","search_live_results":"Search results","search_live_no_result":"No results","search_live_one_result":"You got %s result. Please press Tab to select it.","search_live_many_results":"You got %s results. Please press Tab to select one.","expand_submenu":"Expand dropdown menu","collapse_submenu":"Collapse dropdown menu","dynamic_js_chunks":[{"id":"blocksy_dark_mode","selector":"[data-id=\"dark-mode-switcher\"]","url":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/dark-mode.js","trigger":"click"},{"id":"blocksy_sticky_header","selector":"header [data-sticky]","url":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/sticky.js"}],"dynamic_styles":{"lazy_load":"http:\/\/localhost\/nourish-mom\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-styles.min.css","search_lazy":"http:\/\/localhost\/nourish-mom\/wp-content\/themes\/blocksy\/static\/bundle\/non-critical-search-styles.min.css"},"dynamic_styles_selectors":[{"selector":"#account-modal","url":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/blocksy-companion\/static\/bundle\/account-lazy.min.css"}]};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/themes/blocksy/static/bundle/main.js?ver=1.8.80' id='ct-scripts-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.12.0' id='elementor-webpack-runtime-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.12.0' id='elementor-frontend-modules-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"landing-pages":true},"urls":{"assets":"http:\/\/localhost\/nourish-mom\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":18,"title":"Home%20-%20nourish-mom","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.0' id='elementor-frontend-js'></script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/shopengine/widgets/init/assets/js/widgets.js?ver=4.1.0' id='shopengine-elementor-script-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/nourish-mom\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://localhost/nourish-mom/wp-includes/js/wp-util.min.js?ver=6.2' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.0.2' id='wpforms-elementor-js'></script>
+<script id='elementor-admin-bar-js-before'>
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Edit with Elementor","href":"http:\/\/localhost\/nourish-mom\/wp-admin\/post.php?post=18&action=elementor","children":{"19":{"id":"elementor_site_settings","title":"Site Settings","sub_title":"Site","href":"http:\/\/localhost\/nourish-mom\/wp-admin\/post.php?post=18&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"20":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Site","href":"http:\/\/localhost\/nourish-mom\/wp-admin\/admin.php?page=elementor-app&ver=3.12.0#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script src='http://localhost/nourish-mom/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.12.0' id='elementor-admin-bar-js'></script>
+<script src='http://localhost/nourish-mom/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script id='admin-bar-js-before'>
+( function() {
+				function wpforms_admin_bar_menu_init() {
+					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
+						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
+
+					if ( ! template ) {
+						return;
+					}
+
+					if ( ! notifications ) {
+						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
+
+						if ( ! menu ) {
+							return;
+						}
+
+						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
+					} else {
+						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
+					}
+				};
+				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
+			}() );
+</script>
+<script src='http://localhost/nourish-mom/wp-includes/js/admin-bar.min.js?ver=6.2' id='admin-bar-js'></script>
+
+</body>
+</html>
